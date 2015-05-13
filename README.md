@@ -14,7 +14,7 @@ A project structure and useful dependencies for react / flux developers to start
 ```terminal
 $ npm install
 ```
-then start coding now!
+then you can start coding now!
 
 ## Watch files and dev server
 ```terminal
