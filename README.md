@@ -31,6 +31,10 @@ $ npm run build
 $ npm test
 ```
 
+## With more? (loader / library / tool / build system)
+- Pull your request plz: [https://github.com/AaronChuo/react-flux-boilerplate/pulls][refPull]
+- Or give me feedback: [https://github.com/AaronChuo/react-flux-boilerplate/issues][refIssue]
+
 ## Any suggestions?
 Aaron Chuo <[crazychuo@gmail.com][myMail]>
 
@@ -39,4 +43,6 @@ Aaron Chuo <[crazychuo@gmail.com][myMail]>
 [refWebpack]: http://webpack.github.io/
 [refJest]: https://facebook.github.io/jest/
 [refBabel]: https://babeljs.io/
+[refPull]: https://github.com/AaronChuo/react-flux-boilerplate/pulls
+[refIssue]: https://github.com/AaronChuo/react-flux-boilerplate/issues
 [myMail]: mailto:crazychuo@gmail.com
