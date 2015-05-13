@@ -4,7 +4,7 @@
   "description": "React, Flux, Webpack, and Jest workflow.",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.config.js --content-base src/ --hot --progress --colors",
+    "start": "webpack-dev-server --config webpack.config.js --content-base src/ --hot --progress --colors --inline",
     "build": "rm -rf ./dist && webpack --config webpack.config.production.js --progress && cp ./src/*.html ./dist",
     "test": "jest"
   },
